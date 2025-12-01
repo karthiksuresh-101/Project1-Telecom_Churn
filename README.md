@@ -1,2 +1,49 @@
-# Telecom_Churn-1
-Stakeholder Dependent: Telecom customer churn 
+# Telecom_Customer_Churn_Analysis:
+## Project Overview
+This project is an end-to-end churn analysis built using **Python**, **SQL**, and **Tableau .** 
+
+Unlike a typical analytics project that only focuses on cleaning  data and making pretty dashboards, I wanted this project to be an real experience beacuase of which I designed this to simulate a real data analyst working with business stakeholders.
+
+To achieve this, I asked AI to generate business questions is relevant to the dataset I provided, and asked it to provide questions similar to what a Product Manager or Retention Lead would ask(since I am working on a churn dataset). The below questions paved way for my entire workflow of this project, helping me:
+
+- Focus on collecting insights that actually matter to the business
+- Identify where the company needed my help as a analyst
+- Build dashboards that answer stakeholder questions and help them make data driven decision making
+- Follow a real-world decision-making and communication process
+
+This turns the project from a simple churn analysis into **a stakeholder-focused churn insights solution**, aligned with real-world decision-making and business needs.
+
+## Tools Used
+### **Python (pandas, numpy, seaborn, matplotlib)**
+To clean raw data, handle missing values, engineer features, and explore patterns visually.
+
+### **SQL (MySQL)**
+To compute churn rate, revenue impact, segmentation, and behavioural patterns using analytical queries.
+
+### **Tableau**
+To design a dashboard that directly answers each business question.
+
+## Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
