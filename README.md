@@ -2,6 +2,14 @@
 ## Project Overview
 This project is an end-to-end churn analysis built using **Python**, **SQL**, and **Tableau .** 
 
+The goal is to identify key churn drivers, quantify revenue loss, and highlight customer segments needing targeted retention strategies.
+This portfolio project demonstrates:
+- Real-world data cleaning & preprocessing
+- Exploratory data analysis (EDA) using Python
+- Business understanding & stakeholder communication
+- Interactive dashboard design optimized for decision-making
+- Ability to convert a common dataset into a recruiter-ready, problem-solving case study
+
 Unlike a typical analytics project that only focuses on cleaning  data and making pretty dashboards, I wanted this project to be an real experience beacuase of which I designed this to simulate a real data analyst working with business stakeholders.
 
 To achieve this, I asked AI to generate business questions is relevant to the dataset I provided, and asked it to provide questions similar to what a Product Manager or Retention Lead would ask(since I am working on a churn dataset). The below questions paved way for my entire workflow of this project, helping me:
@@ -13,7 +21,7 @@ To achieve this, I asked AI to generate business questions is relevant to the da
 
 This turns the project from a simple churn analysis into **a stakeholder-focused churn insights solution**, aligned with real-world decision-making and business needs.
 
-## Tools Used
+## Tools used in this project
 ### **Python (pandas, numpy, seaborn, matplotlib)**
 To clean raw data, handle missing values, engineer features, and explore patterns visually.
 
