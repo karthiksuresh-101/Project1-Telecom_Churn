@@ -19,9 +19,10 @@ tenure_labels = []          # Labels for grouped tenure ranges
 
 ## How to Explore the Analysis
 
-## This project is fully contained inside one notebook:
+#### This project is fully contained inside one notebook:
 
-** telecom_churn_analysis.ipynb **
+``Code.ipynb`` : [Notebook](Code.ipynb) 
+
 
 This notebook includes the complete workflow:
 
