@@ -24,8 +24,15 @@ To compute churn rate, revenue impact, segmentation, and behavioural patterns us
 To design a dashboard that directly answers each business question.
 
 ## Codes
-Python workspace:
+Python analysis:
 [Jupyter Notebook](jupyter_proj_1.ipynb)
+
+SQL analysis:
+
+
+## Dashboard 
+
+<img width="1883" height="752" alt="Screenshot 2025-12-02 212543" src="https://github.com/user-attachments/assets/b350f592-88d7-4d3c-9e99-95b787e45f38" />
 
 
 
