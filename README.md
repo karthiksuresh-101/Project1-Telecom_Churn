@@ -25,7 +25,7 @@ To design a dashboard that directly answers each business question.
 
 ## Codes
 Python workspace:
-[Jupyter Notebook](Python.py)
+[Jupyter Notebook](jupyter_proj_1.ipynb)
 
 
 
