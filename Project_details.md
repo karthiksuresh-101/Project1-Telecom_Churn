@@ -45,11 +45,7 @@ SQL analysis:
 
 ## Tableau
 # Telecom Churn Analysis Dashboard
-
-Click the image below to view the interactive dashboard! 👇
-
-[![Dashboard Preview](dashboard_preview.png)](https://karthiksuresh-101.github.io/Telecom_Churn-1/)
-
+Viz link: ``link``
 
 
 
