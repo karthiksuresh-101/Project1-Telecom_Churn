@@ -30,10 +30,12 @@ pip install pandas numpy matplotlib seaborn
 ```
 
 3. **Run the Script**
-
+   
 ``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Telecom_Churn_Notebook.py)
 
+4. **Dashboard**
 
+   Open [dashboard](https://github.com/karthiksuresh-101/Project1-Telecom_Churn/blob/main/Project_details.md#dashboard)
 
 
 
