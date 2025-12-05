@@ -51,26 +51,21 @@ pip install pandas numpy matplotlib seaborn
 
    Open [dashboard](https://github.com/karthiksuresh-101/Project1-Telecom_Churn/blob/main/Project_details.md#dashboard)
 
+## Contributions
+Contributions are welcome!
+If you’d like to improve the analysis, enhance the code, or add new visualizations:
+   1. Fork this repository
+   2. Create a new branch
+   3. Make your changes
+   4. Submit a pull request
 
+Please ensure your updates are well-documented and follow clean coding practices.
 
+## License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute the code as long as the original license is included.
 
-
-
-## How to Explore the Analysis
-
-#### This project is fully contained inside one notebook:
-
-``Code.ipynb`` : [Notebook](Code.ipynb) 
-
-
-This notebook includes the complete workflow:
-
-- Data loading
-- Preprocessing (missing values, data types, feature creation)
-- Exploratory Data Analysis (EDA)
-- VisualizationsChurn segment analysis
-- Exporting cleaned data to connect with the dashboard
-
+See the [**LICENSE**](license.txt) file for full details.
 
 
 
