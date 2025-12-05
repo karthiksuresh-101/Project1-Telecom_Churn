@@ -1,5 +1,6 @@
 # Telecom_Customer_Churn_Analysis:
 
+
 ## Project Description
 This project is an end-to-end churn analysis built using Python, SQL, and Tableau to explore customer behavior and identify churn drivers in a telecom dataset (Kaggle: Telco Customer Churn).
 
@@ -21,7 +22,7 @@ Notes:
 - Created derived columns: `tenure_group`, `monthly_revenue_lost`
 
 
-## Tools and libraries
+## Tools And Libraries
 - Dashboard: Tableau 
 - Data cleaning & analysis: Python (pandas), SQL(MySQL)
 - Visuals & charts: Matplotlib,Seaborn and Tableau visuals
@@ -29,8 +30,7 @@ Notes:
 - Version control & hosting: GitHub
 
 
-
-## How to Run 
+## How To Run 
 1. **Clone the repo**   
 ```
 git clone https://github.com/<your-username>/<repo-name>.git 
@@ -49,6 +49,15 @@ pip install pandas numpy matplotlib seaborn
 ``Explore Analysis here``: [Notebook Preview](Teleco_Notebook.ipynb) 
 
 
+## In-Depth Project Details
+
+A complete and in-depth explanation of this project is available in [Project_report.md](Project_report.md), where the full narrative of the analysis is presented.
+
+This document includes the project overview, the stakeholder problem that motivated the work, the data preparation steps, the analytical approach, key insights, solutions generated from the findings, recommendations for decision-makers, and a walkthrough of the dashboard.
+
+It provides a clear, end-to-end understanding of the reasoning, methodology, and outcomes behind the project.
+
+
 ## Contributions
 Contributions are welcome!
 If you’d like to improve the analysis, enhance the code, or add new visualizations:
@@ -58,6 +67,7 @@ If you’d like to improve the analysis, enhance the code, or add new visualizat
    4. Submit a pull request
 
 Please ensure your updates are well-documented and follow clean coding practices.
+
 
 ## License
 This project is licensed under the MIT License.
@@ -71,9 +81,3 @@ If you have questions, suggestions, or opportunities to collaborate, feel free t
 
 Karthik Suresh
 LinkedIn: [link](www.linkedin.com/in/karthik-suresh-ks010)
-
-
-
-
-
-
