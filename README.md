@@ -47,9 +47,6 @@ pip install pandas numpy matplotlib seaborn
 
 ``Explore Analysis here``: [Notebook Preview](Teleco_Notebook.ipynb) 
 
-4. **Dashboard**
-
-   Open [dashboard](https://github.com/karthiksuresh-101/Project1-Telecom_Churn/blob/main/Project_details.md#dashboard)
 
 ## Contributions
 Contributions are welcome!
@@ -68,11 +65,11 @@ You are free to use, modify, and distribute the code as long as the original lic
 See the [**LICENSE**](license.txt) file for full details.
 
 
-
 ## Contact / About the author
+If you have questions, suggestions, or opportunities to collaborate, feel free to reach out:\
 
-Karthik Suresh — Data Analyst | Portfolio: (link to your Notion or portfolio)
-Email: (your email) — LinkedIn: (your LinkedIn)
+Karthik Suresh
+LinkedIn: [link](www.linkedin.com/in/karthik-suresh-ks010)
 
 
 
