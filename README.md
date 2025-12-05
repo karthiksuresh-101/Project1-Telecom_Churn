@@ -17,6 +17,29 @@ tenure_bins = []            # Tenure grouping thresholds for lifecycle analysis
 tenure_labels = []          # Labels for grouped tenure ranges
 ```
 
+## How to Run
+1. **Clone the repo**   
+```
+git clone https://github.com/<your-username>/<repo-name>.git 
+cd <repo-name> 
+```
+2. **Install dependencies**
+This project uses common Python analytics libraries:
+```
+pip install pandas numpy matplotlib seaborn
+```
+
+3. **Run the Script**
+
+``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Telecom_Churn_Notebook.py)
+
+
+
+
+
+
+
+
 ## How to Explore the Analysis
 
 #### This project is fully contained inside one notebook:
